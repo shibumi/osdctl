@@ -1,4 +1,4 @@
-module github.com/openshift/osdctl
+module github.com/shibumi/osdctl
 
 go 1.16
 
