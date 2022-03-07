@@ -1,4 +1,4 @@
-module osdctl
+module github.com/shibumi/osdctl
 
 go 1.16
 
