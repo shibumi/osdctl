@@ -1898,6 +1898,8 @@ github.com/openshift/machine-api-operator v0.2.1-0.20200402110321-4f3602b96da3/g
 github.com/openshift/machine-api-operator v0.2.1-0.20200429102619-d36974451290/go.mod h1:QkhH+/6BXabl+4HmiLwx9/bmW1ieCGF9km7xz22Ozl0=
 github.com/openshift/machine-config-operator v4.2.0-alpha.0.0.20190917115525-033375cbe820+incompatible/go.mod h1:4IzikyGmUVQwlohScKeaAr5n2YzcWXkZvTMGGxDcU2Q=
 github.com/openshift/origin v0.0.0-20160503220234-8f127d736703/go.mod h1:0Rox5r9C8aQn6j1oAOQ0c1uC86mYbUFObzjBRvUKHII=
+github.com/openshift/osdctl v0.9.2 h1:ATRIBILJjFA8CTxqwT6/f2A1d19jXDJu57RoDlaMlcQ=
+github.com/openshift/osdctl v0.9.2/go.mod h1:SmoqvhKWZAA2Yi/JJkftixo0rGlmoB+pt59nh7EaWlU=
 github.com/openshift/prom-label-proxy v0.1.1-0.20191016113035-b8153a7f39f1/go.mod h1:p5MuxzsYP1JPsNGwtjtcgRHHlGziCJJfztff91nNixw=
 github.com/openshift/terraform-provider-aws v1.60.1-0.20200526184553-1a716dcc0fa8/go.mod h1:H7ABt26s2lS5p/AOJvhB5V68d+2XzuNcpv9+3gsENJY=
 github.com/openshift/terraform-provider-azurerm v1.41.1-openshift-3/go.mod h1:O9UYVGp8E7aMa2dANw9oTQmaZZbbr8DMRpC56dyy00E=
